@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\ticketing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtUtil.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtUtil.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-28T08:42:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityConfig.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\SecurityConfig.java",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:29:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtFilter.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\security\\JwtFilter.java",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:28:39.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\AuthService.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:27:56.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\AuthController.java",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:27:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimpleTicketDto.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\dto\\SimpleTicketDto.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:25:31.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketRepository.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\repository\\TicketRepository.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:25:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketService.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\service\\TicketService.java",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:20:04.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketController.java",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java",
+              "RelativeDocumentMoniker": "ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ticketing\\ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java",
+              "RelativeToolTip": "ticketing\\src\\main\\java\\com\\example\\ticketing\\controller\\TicketController.java",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-07-27T13:15:19.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
