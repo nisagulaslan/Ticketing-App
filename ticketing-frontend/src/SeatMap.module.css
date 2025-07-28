@@ -1,0 +1,39 @@
+/* SeatMap.module.css */
+
+.seatMapSvg {
+  width: 100%;
+  height: auto;
+  user-select: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.seatMapBackground {
+  fill: #1f2735; /* Koyu lacivert-gri, arka plandan belirgin */
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.7));
+  rx: 20;
+  ry: 20;
+}
+
+
+
+.stageText {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  user-select: none;
+  pointer-events: none;
+}
+
+/* Koltuk şekli (g tag içindeki rect ve text zaten inline style ile ayarlanıyor) */
+
+/* Eğer koltuklar için hover veya focus efekti eklemek isterseniz buraya ekleyebilirsiniz */
+g[role="button"]:hover rect {
+  filter: drop-shadow(0 0 8px rgba(75, 144, 226, 0.7));
+}
+
+g[role="button"]:focus rect {
+  outline: 2px solid #fbc02d;
+  outline-offset: 2px;
+}
+
+/* Dolu koltuklar için cursor değişikliği inline style ile ayarlı */
+/* Seçili koltuk zaten inline drop-shadow ile belirtiliyor */

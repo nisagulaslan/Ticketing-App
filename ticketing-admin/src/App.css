@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.admin-container {
+  display: flex;
+  height: 100vh;
+  background-color: #f4f5f7;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #1f1f2e;
+  color: white;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+.sidebar .logo {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}
+
+.sidebar nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar nav ul li {
+  padding: 12px 0;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  transition: 0.2s;
+}
+
+.sidebar nav ul li:hover {
+  color: #f5a623;
+}
+
+.content {
+  flex-grow: 1;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+.content h1 {
+  margin-top: 0;
+}
+
+.sidebar nav ul li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+.sidebar nav ul li a.active {
+  background-color: #f5a623;
+  color: black;
+  padding-left: 10px;
+  border-radius: 4px;
+}
+
+.event-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.event-table th, .event-table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
+.event-table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+.event-table tr:hover {
+  background-color: #f0f8ff;
+}
